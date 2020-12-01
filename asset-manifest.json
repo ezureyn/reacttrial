@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reacttrial/static/css/main.446c1d1d.chunk.css",
+    "main.js": "/reacttrial/static/js/main.f0c5db56.chunk.js",
+    "main.js.map": "/reacttrial/static/js/main.f0c5db56.chunk.js.map",
+    "runtime-main.js": "/reacttrial/static/js/runtime-main.e8325512.js",
+    "runtime-main.js.map": "/reacttrial/static/js/runtime-main.e8325512.js.map",
+    "static/css/2.2a86faee.chunk.css": "/reacttrial/static/css/2.2a86faee.chunk.css",
+    "static/js/2.707a5b1c.chunk.js": "/reacttrial/static/js/2.707a5b1c.chunk.js",
+    "static/js/2.707a5b1c.chunk.js.map": "/reacttrial/static/js/2.707a5b1c.chunk.js.map",
+    "index.html": "/reacttrial/index.html",
+    "precache-manifest.5e7e7b2d9869905740853199ca02cfe3.js": "/reacttrial/precache-manifest.5e7e7b2d9869905740853199ca02cfe3.js",
+    "service-worker.js": "/reacttrial/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/reacttrial/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.446c1d1d.chunk.css.map": "/reacttrial/static/css/main.446c1d1d.chunk.css.map",
+    "static/js/2.707a5b1c.chunk.js.LICENSE.txt": "/reacttrial/static/js/2.707a5b1c.chunk.js.LICENSE.txt",
+    "static/media/Atatürk.jpg": "/reacttrial/static/media/Atatürk.c2855dc2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8325512.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.707a5b1c.chunk.js",
+    "static/css/main.446c1d1d.chunk.css",
+    "static/js/main.f0c5db56.chunk.js"
+  ]
+}
